@@ -16,7 +16,7 @@ class MyHome extends StatefulWidget {
 class _MyHomeState extends State<MyHome> {
   // TextEditingController firstController = TextEditingController();
   // TextEditingController secondController = TextEditingController();
-  // // double result = 0;
+  // // double result = 0; 
 
   var tController1 = TextEditingController();
   var tController2 = TextEditingController();
